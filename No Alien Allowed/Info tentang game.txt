@@ -1,0 +1,15 @@
+Renardo Tunggara
+2540128966
+Game terinsiprasi dari duck hunt
+Game akan terus berjalan dan tak ada kondisi yang membuat pemain kalah
+
+Game menceritakan tentang dimana adanya terjadi invasi alien yang datang menyerang bumi
+yang awalnya sang karakter utama tidak begitu memedulikannya karena ia merasa tinggal di
+daerah perhutanan sehingga aman dengan invasi alien yang hanya menyerang kota dan kerumunan. 
+Tapi ternyata ada 1 pesawat alien yang nyasar ketempatnya lalu menangkap istri dan anak-anaknya 
+dan pergi begitu saja jadi ia berpikiran bahwa istri dan anaknya telah di bunuh oleh alien 
+tersebut sehingga ia ingin membalas dendam, tapi karena semua pesawat alien yang dilihatnya 
+berbentuk sama jadi ia menghancurkan seluruh pesawat luar angkasa yang ada di daerahnya.
+
+Tutorial :
+- klik kiri pada tengah UFO dan menangkan score sebanyak-banyaknya.
